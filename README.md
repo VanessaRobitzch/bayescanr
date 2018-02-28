@@ -26,6 +26,8 @@ Once this package has been installed, you can read through the vignette for a tu
 vignette('bayescanr', package='bayescanr')
 ```
 
+#it says it is not available for R 3.4.3. I cannot download it. Is there another way and/or updated version of bayescanr you could please provide?
+
 **If this R package helped you, please cite it.**
 
 Hanson J.O., Rhodes J. R., Fuller R. A. (2015). bayescanr: BayeScan Analysis in R. Version 1.0.0. doi: 10.5281/zenodo.8475.
